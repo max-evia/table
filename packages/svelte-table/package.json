@@ -42,7 +42,7 @@
     "src"
   ],
   "dependencies": {
-    "@tanstack/table-core": "8.9.4"
+    "@tanstack/table-core": "8.9.2"
   },
   "peerDependencies": {
     "svelte": "^4.1.1"
